@@ -1,0 +1,16 @@
+body {
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+.ultimoResultado {
+    color: white;
+    padding: 3px;
+}
+
+/* Colores para los estados del juego */
+.ganado { background-color: green; }
+.perdido { background-color: red; }
